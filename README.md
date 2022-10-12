@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17d1fd72-1092-45f2-b399-8a7582fa1a75/deploy-status)](https://app.netlify.com/sites/enchanting-alpaca-fc031c/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
